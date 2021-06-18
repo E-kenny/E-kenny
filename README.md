@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Ekenny's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-</details>
+
 
 [twitter]: https://twitter.com/Engr_Ekenny
 [instagram]: https://instagram.com/e_kenny47
