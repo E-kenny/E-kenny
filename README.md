@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 
 
-[twitter]: https://twitter.com/Engr_Ekenny
+[twitter]: https://twitter.com/ekenny47
 [instagram]: https://instagram.com/e_kenny47
 [linkedin]: https://linkedin.com/in/ekenny47
 [facebook]: https://facebook.com/obiasogu.ekene
