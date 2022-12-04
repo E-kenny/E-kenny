@@ -4,11 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a wallet Application 
+- 👯 I’m looking to collaborate on .NET project
+- 🤔 I’m looking for help with job role
+- 💬 Ask me about .NET
 - 📫 How to reach me: +23407062341263
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -17,10 +16,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Ekene Obiasogu - aka [E_kenny] 👋
 
 ## I'm a Son, Brother, Developer, and Engineer!!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Read and play soccer / dance
+- ⚡ Fun fact: I love to Read and play teach
 
 ### Connect with me:
 [<img align="left" alt="Ekenny | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
