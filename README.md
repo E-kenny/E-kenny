@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ekene Obiasogu - aka [E_kenny] 👋
 
-## I'm a Son, Brother, Developer, and Engineer!!
+## I'm an Engineer!!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Read and play teach
